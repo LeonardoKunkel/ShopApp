@@ -1,0 +1,49 @@
+{
+    "catalog": [
+        {
+            "id": 1,
+            "imageURL": "../images/baseball-cap.png",
+            "name": "Gorra",
+            "type": "",
+            "price": 250,
+            "currency": "$",
+            "amount": 1
+        },
+        {
+            "id": 2,
+            "imageURL": "../images/sunglasses.png",
+            "name": "Lentes",
+            "type": "",
+            "price": 350,
+            "currency": "$",
+            "amount": 1
+        },
+        {
+            "id": 3,
+            "imageURL": "../images/hoodie.png",
+            "name": "Sudadera",
+            "type": "",
+            "price": 400,
+            "currency": "$",
+            "amount": 1
+        },
+        {
+            "id": 4,
+            "imageURL": "../images/trousers.png",
+            "name": "Pantalones",
+            "type": "",
+            "price": 500,
+            "currency": "$",
+            "amount": 1
+        },
+        {
+            "id": 5,
+            "imageURL": "../images/sneakers.png",
+            "name": "Tennis",
+            "type": "",
+            "price": 1000,
+            "currency": "$",
+            "amount": 1
+        }
+    ]
+}

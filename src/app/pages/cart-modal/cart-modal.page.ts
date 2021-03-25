@@ -36,8 +36,4 @@ export class CartModalPage implements OnInit {
   close() {
     this.modalCtrl.dismiss();
   }
-
-  checkout() {
-  
-  }
 }

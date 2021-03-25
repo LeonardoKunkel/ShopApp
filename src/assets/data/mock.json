@@ -2,7 +2,7 @@
     "catalog": [
         {
             "id": 1,
-            "imageURL": "../images/baseball-cap.png",
+            "imageURL": "./images/baseball-cap.png",
             "name": "Gorra",
             "type": "",
             "price": 250,

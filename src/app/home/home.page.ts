@@ -12,7 +12,7 @@ import { CartModalPage } from '../pages/cart-modal/cart-modal.page';
 export class HomePage implements OnInit {
 
   cart = [];
-  products: any = [];
+  products: any[] = [];
   cartItemCount: BehaviorSubject<number>;
 
   @ViewChild('cart', {static: false, read: ElementRef})fab: ElementRef;
